@@ -1,6 +1,4 @@
-* {
-    box-sizing: border-box;
-}
+* 
 
 /* Comment in CSS
 
@@ -17,5 +15,10 @@ body {
     font-family: Poppins,san-serif
 }
 
-hi {}
+section {
+    padding-bottom: 50px;
+}
 
+h1, h2 {
+    color: red;
+}
