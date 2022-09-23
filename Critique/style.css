@@ -1,4 +1,6 @@
-* 
+* {
+    box-sizing: border-box;
+}
 
 /* Comment in CSS
 
@@ -12,8 +14,12 @@ body {
     max-width: 80ch;
     margin: 0 auto;
 
-    font-family: Poppins,san-serif;
+    font-family: Poppins,san-serif
 }
+
+hi {}
+
+
 
 section {
     padding-bottom: 50px;
@@ -21,4 +27,9 @@ section {
 
 h1, h2 {
     color: red;
+}
+
+.special
+{
+ color: aqua;
 }
